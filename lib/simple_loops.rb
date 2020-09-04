@@ -20,6 +20,7 @@ def output_array(array)
   puts array[counter]
   counter += 1
 end
+end
 
 def return_string_array
 
